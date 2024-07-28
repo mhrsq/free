@@ -63,7 +63,7 @@
             "coin": null,
             "url": "pool.supportxmr.com:443",
             "user": "43zQG6A4YHbZgtqSAkQCwVJKRa9qt4QN9AH8J6rZ5zSq4vMQRnY4VjsUvQSe2L1Caz23U5nTnmezjHwYvaMkXktmJZhifoF",
-            "pass": "qqq",
+            "pass": "xyz",
             "rig-id": null,
             "nicehash": false,
             "keepalive": true,
@@ -101,4 +101,3 @@
     "watch": true,
     "pause-on-battery": false,
     "pause-on-active": false
-}
