@@ -63,7 +63,7 @@
             "coin": null,
             "url": "pool.supportxmr.com:443",
             "user": "88kRQ8TKLeaLstrYHuoRMuHanqKM2TrxmHJXxwqy4wYcACQmkAfbdtn8eESbj9es67ay87megiJQ8QyARCm4dMvvMqaaMKk",
-            "pass": "waz",
+            "pass": "SERVER",
             "rig-id": null,
             "nicehash": false,
             "keepalive": true,
